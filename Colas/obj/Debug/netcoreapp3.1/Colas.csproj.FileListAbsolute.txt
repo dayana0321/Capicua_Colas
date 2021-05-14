@@ -1,0 +1,11 @@
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.exe
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.deps.json
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.json
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.runtimeconfig.dev.json
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Colas\Colas\bin\Debug\netcoreapp3.1\Colas.pdb
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.csprojAssemblyReference.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfoInputs.cache
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.AssemblyInfo.cs
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.dll
+C:\Users\Adminitrador\Documents\QUINTO SEMESTRE\PROGRAMACIÓN 3\Colas\Colas\obj\Debug\netcoreapp3.1\Colas.pdb
